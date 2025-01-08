@@ -17,6 +17,10 @@
 
 ## Details
 
+MoveWiser is an AI chatbot that leverages a **Retrieval-Augmented Generation (RAG) model** to answer questions specifically tailored to your website!
+
+This is how it works:
+
 1. Scraping
 
 The first task is to scrap all data available on a website. We took an approach of looking at `sitemap.xml` and downloading all pages followed by cleaning up and storing the images.
