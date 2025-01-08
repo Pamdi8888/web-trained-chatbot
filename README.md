@@ -1,4 +1,4 @@
-# MoveWiser - An AI powered chatbot for your website
+# MoveWiser - A RAG AI powered chatbot for your website
 
 ![Chatbot overlook](images/demo-screenshot.png)
 ![Continued conversation](images/continued-question.png)
